@@ -1,6 +1,6 @@
 # Prometheus
 
-Prometheus  ~ A discord token stealer and information gatherer.
+Prometheus  ~ A discord token and info stealer.
 
 Features:
 + Grabs Discord Token From App And All Browsers
